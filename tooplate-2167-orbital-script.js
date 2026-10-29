@@ -16,7 +16,7 @@
   var panels = ring.querySelectorAll('.panel');
   var count = panels.length;
 
-  var spacingLevels = [0.74, 0.92, 1.08];   /* tight, default, wide */
+  var spacingLevels =z [0.92, 1.08];   /* tight, default, wide */
   var spacingIndex = 1;
 
   function baseRadius() {
